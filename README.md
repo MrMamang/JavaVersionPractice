@@ -1,6 +1,6 @@
 # Proyek: DocumentationPractice (Codelab 2)
 
-Ini adalah file README untuk proyek "DocumentationPractice". File ini dibuat sebagai bagian dari Codelab 2.
+Ini adalah file README untuk proyek "JavaPracticeVersion". File ini dibuat sebagai bagian dari Codelab 2.
 
 ---
 
@@ -36,14 +36,14 @@ Berikut adalah langkah-langkah untuk mengunduh (clone), mengompilasi (compile), 
 1.  **Clone Repository**
     Buka terminal atau Command Prompt Anda dan jalankan perintah berikut untuk mengunduh proyek:
     ```bash
-    git clone [URL_REPOSITORY_ANDA_DI_SINI]
+    git clone https://github.com/MrMamang/JavaVersionPractice.git
     ```
 
 2.  **Masuk ke Direktori Proyek**
     ```bash
-    cd DocumentationPractice
+    cd JavaVersionPractice
     ```
-    *(Ganti `DocumentationPractice` jika nama folder proyek Anda berbeda)*
+    
 
 3.  **Kompilasi (Compile) Kode Java**
     Jalankan perintah `javac` untuk mengompilasi file `Main.java`:
@@ -61,3 +61,8 @@ Berikut adalah langkah-langkah untuk mengunduh (clone), mengompilasi (compile), 
 ### Output yang Diharapkan
 
 Setelah Anda menjalankan perintah `java Main`, Anda akan melihat output berikut di terminal Anda:
+''''
+Hello, World!
+''''
+HALO ini poerubahan yang saya lakukan
+
