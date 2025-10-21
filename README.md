@@ -61,3 +61,5 @@ Berikut adalah langkah-langkah untuk mengunduh (clone), mengompilasi (compile), 
 ### Output yang Diharapkan
 
 Setelah Anda menjalankan perintah `java Main`, Anda akan melihat output berikut di terminal Anda:
+Hello, World!
+HALO ini poerubahan yang saya lakukan
