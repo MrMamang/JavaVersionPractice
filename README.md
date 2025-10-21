@@ -1,6 +1,6 @@
 # Proyek: DocumentationPractice (Codelab 2)
 
-Ini adalah file README untuk proyek "DocumentationPractice". File ini dibuat sebagai bagian dari Codelab 2.
+Ini adalah file README untuk proyek "JavaPracticeVersion". File ini dibuat sebagai bagian dari Codelab 2.
 
 ---
 
